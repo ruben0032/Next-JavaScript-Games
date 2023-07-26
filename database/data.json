@@ -1,0 +1,148 @@
+{ 
+    "data": [
+    {
+        "id": 1,
+        "createdAt": "2023-05-19T04:27:59.248Z",
+        "description": "Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fictitious eastern world with the infestation of vicious demon monsters. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world, and experience unforeseen entanglements of complex beings.",
+        "title": "Eastern Exorcist",
+        "studio": "Wildfire Game",
+        "publicDate": "2023-05-17",
+        "urlImage": "https://media.karousell.com/media/photos/products/2022/12/19/eastern_exorcist_pc_digital_co_1671430989_e5e93e99_progressive"
+    },
+    {
+        "id": 2,
+        "createdAt": "2023-05-19T05:32:43.908Z",
+        "description": "Embárcate en un viaje encantador en Ravenlok, una aventura de cuento de hadas llena de acción sobre una joven heroína destinada a cumplir una profecía peligrosa. Al encontrar un espejo místico, Ravenlok es transportada a un mundo caprichoso asolado por la oscuridad siniestra de una reina tiránica. El destino espera a todos en una aventura inolvidable y emotiva.",
+        "title": "Ravenlok",
+        "studio": "Cococucumber",
+        "publicDate": "2023-05-03",
+        "urlImage": "https://assetsio.reedpopcdn.com/Ravenlok_KeyArt_1920x1080.jpg?width=600&height=600&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    },
+    {
+        "id": 3,
+        "createdAt": "2023-05-19T04:55:16.614Z",
+        "description": "Redfall es un shooter en primera persona de mundo abierto, con modos en solitario y cooperativos, desarrollado por Arkane Austin, el equipo galardonado responsable de Prey y Dishonored. Los mundos diseñados con todo lujo de detalles y los simuladores inmersivos que caracterizan a Arkane llegan a este shooter de acción narrativa de la mano de Redfall.",
+        "title": "Redfall",
+        "studio": "Arkane Studios",
+        "publicDate": "2023-05-01",
+        "urlImage": "https://image.jeuxvideo.com/medias-sm/168201/1682011983-316-jaquette-avant.jpg"
+    },
+    {
+        "id": 4,
+        "createdAt": "2023-05-19T04:50:01.167Z",
+        "description": "Adéntrate en un torcido mundo de organizaciones secretas, rituales prohibidos y asesinatos a sangre fría. Ponte en la consciencia de las víctimas para explorar sus historias y buscar pistas. Acepta el último caso de Benedict Fox, un autoproclamado detective vinculado a su compañero demonio.",
+        "title": "The Last Case of Benedict Fox",
+        "studio": "Plot Twist",
+        "publicDate": "2023-04-27",
+        "urlImage": "https://rogueco.com/wp-content/uploads/2022/08/Rogue-Games-Benedict-Fox-Featured-Image.jpg"
+    },
+    {
+        "id": 5,
+        "createdAt": "2023-05-19T04:27:59.248Z",
+        "description": "Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fictitious eastern world with the infestation of vicious demon monsters. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world, and experience unforeseen entanglements of complex beings.",
+        "title": "Eastern Exorcist",
+        "studio": "Wildfire Game",
+        "publicDate": "2023-05-17",
+        "urlImage": "https://media.karousell.com/media/photos/products/2022/12/19/eastern_exorcist_pc_digital_co_1671430989_e5e93e99_progressive"
+    },
+    {
+        "id": 6,
+        "createdAt": "2023-05-19T05:32:43.908Z",
+        "description": "Embárcate en un viaje encantador en Ravenlok, una aventura de cuento de hadas llena de acción sobre una joven heroína destinada a cumplir una profecía peligrosa. Al encontrar un espejo místico, Ravenlok es transportada a un mundo caprichoso asolado por la oscuridad siniestra de una reina tiránica. El destino espera a todos en una aventura inolvidable y emotiva.",
+        "title": "Ravenlok",
+        "studio": "Cococucumber",
+        "publicDate": "2023-05-03",
+        "urlImage": "https://assetsio.reedpopcdn.com/Ravenlok_KeyArt_1920x1080.jpg?width=600&height=600&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    },
+    {
+        "id": 7,
+        "createdAt": "2023-05-19T04:55:16.614Z",
+        "description": "Redfall es un shooter en primera persona de mundo abierto, con modos en solitario y cooperativos, desarrollado por Arkane Austin, el equipo galardonado responsable de Prey y Dishonored. Los mundos diseñados con todo lujo de detalles y los simuladores inmersivos que caracterizan a Arkane llegan a este shooter de acción narrativa de la mano de Redfall.",
+        "title": "Redfall",
+        "studio": "Arkane Studios",
+        "publicDate": "2023-05-01",
+        "urlImage": "https://image.jeuxvideo.com/medias-sm/168201/1682011983-316-jaquette-avant.jpg"
+    },
+    {
+        "id": 8,
+        "createdAt": "2023-05-19T04:50:01.167Z",
+        "description": "Adéntrate en un torcido mundo de organizaciones secretas, rituales prohibidos y asesinatos a sangre fría. Ponte en la consciencia de las víctimas para explorar sus historias y buscar pistas. Acepta el último caso de Benedict Fox, un autoproclamado detective vinculado a su compañero demonio.",
+        "title": "The Last Case of Benedict Fox",
+        "studio": "Plot Twist",
+        "publicDate": "2023-04-27",
+        "urlImage": "https://rogueco.com/wp-content/uploads/2022/08/Rogue-Games-Benedict-Fox-Featured-Image.jpg"
+    },
+    {
+        "id": 9,
+        "createdAt": "2023-05-19T04:27:59.248Z",
+        "description": "Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fictitious eastern world with the infestation of vicious demon monsters. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world, and experience unforeseen entanglements of complex beings.",
+        "title": "Eastern Exorcist",
+        "studio": "Wildfire Game",
+        "publicDate": "2023-05-17",
+        "urlImage": "https://media.karousell.com/media/photos/products/2022/12/19/eastern_exorcist_pc_digital_co_1671430989_e5e93e99_progressive"
+    },
+    {
+        "id": 10,
+        "createdAt": "2023-05-19T05:32:43.908Z",
+        "description": "Embárcate en un viaje encantador en Ravenlok, una aventura de cuento de hadas llena de acción sobre una joven heroína destinada a cumplir una profecía peligrosa. Al encontrar un espejo místico, Ravenlok es transportada a un mundo caprichoso asolado por la oscuridad siniestra de una reina tiránica. El destino espera a todos en una aventura inolvidable y emotiva.",
+        "title": "Ravenlok",
+        "studio": "Cococucumber",
+        "publicDate": "2023-05-03",
+        "urlImage": "https://assetsio.reedpopcdn.com/Ravenlok_KeyArt_1920x1080.jpg?width=600&height=600&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    },
+    {
+        "id": 11,
+        "createdAt": "2023-05-19T04:55:16.614Z",
+        "description": "Redfall es un shooter en primera persona de mundo abierto, con modos en solitario y cooperativos, desarrollado por Arkane Austin, el equipo galardonado responsable de Prey y Dishonored. Los mundos diseñados con todo lujo de detalles y los simuladores inmersivos que caracterizan a Arkane llegan a este shooter de acción narrativa de la mano de Redfall.",
+        "title": "Redfall",
+        "studio": "Arkane Studios",
+        "publicDate": "2023-05-01",
+        "urlImage": "https://image.jeuxvideo.com/medias-sm/168201/1682011983-316-jaquette-avant.jpg"
+    },
+    {
+        "id": 12,
+        "createdAt": "2023-05-19T04:50:01.167Z",
+        "description": "Adéntrate en un torcido mundo de organizaciones secretas, rituales prohibidos y asesinatos a sangre fría. Ponte en la consciencia de las víctimas para explorar sus historias y buscar pistas. Acepta el último caso de Benedict Fox, un autoproclamado detective vinculado a su compañero demonio.",
+        "title": "The Last Case of Benedict Fox",
+        "studio": "Plot Twist",
+        "publicDate": "2023-04-27",
+        "urlImage": "https://rogueco.com/wp-content/uploads/2022/08/Rogue-Games-Benedict-Fox-Featured-Image.jpg"
+    },
+    {
+        "id": 13,
+        "createdAt": "2023-05-19T04:27:59.248Z",
+        "description": "Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fictitious eastern world with the infestation of vicious demon monsters. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world, and experience unforeseen entanglements of complex beings.",
+        "title": "Eastern Exorcist",
+        "studio": "Wildfire Game",
+        "publicDate": "2023-05-17",
+        "urlImage": "https://media.karousell.com/media/photos/products/2022/12/19/eastern_exorcist_pc_digital_co_1671430989_e5e93e99_progressive"
+    },
+    {
+        "id": 14,
+        "createdAt": "2023-05-19T05:32:43.908Z",
+        "description": "Embárcate en un viaje encantador en Ravenlok, una aventura de cuento de hadas llena de acción sobre una joven heroína destinada a cumplir una profecía peligrosa. Al encontrar un espejo místico, Ravenlok es transportada a un mundo caprichoso asolado por la oscuridad siniestra de una reina tiránica. El destino espera a todos en una aventura inolvidable y emotiva.",
+        "title": "Ravenlok",
+        "studio": "Cococucumber",
+        "publicDate": "2023-05-03",
+        "urlImage": "https://assetsio.reedpopcdn.com/Ravenlok_KeyArt_1920x1080.jpg?width=600&height=600&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    },
+    {
+        "id": 15,
+        "createdAt": "2023-05-19T04:55:16.614Z",
+        "description": "Redfall es un shooter en primera persona de mundo abierto, con modos en solitario y cooperativos, desarrollado por Arkane Austin, el equipo galardonado responsable de Prey y Dishonored. Los mundos diseñados con todo lujo de detalles y los simuladores inmersivos que caracterizan a Arkane llegan a este shooter de acción narrativa de la mano de Redfall.",
+        "title": "Redfall",
+        "studio": "Arkane Studios",
+        "publicDate": "2023-05-01",
+        "urlImage": "https://image.jeuxvideo.com/medias-sm/168201/1682011983-316-jaquette-avant.jpg"
+    },
+    {
+        "id": 16,
+        "createdAt": "2023-05-19T04:50:01.167Z",
+        "description": "Adéntrate en un torcido mundo de organizaciones secretas, rituales prohibidos y asesinatos a sangre fría. Ponte en la consciencia de las víctimas para explorar sus historias y buscar pistas. Acepta el último caso de Benedict Fox, un autoproclamado detective vinculado a su compañero demonio.",
+        "title": "The Last Case of Benedict Fox",
+        "studio": "Plot Twist",
+        "publicDate": "2023-04-27",
+        "urlImage": "https://rogueco.com/wp-content/uploads/2022/08/Rogue-Games-Benedict-Fox-Featured-Image.jpg"
+    }
+    ]
+}
